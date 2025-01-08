@@ -1,4 +1,4 @@
-The Food Clone App is a web application designed to replicate the functionality of popular food delivery platforms.
+**The Food Clone App** is a web application designed to replicate the functionality of popular food delivery platforms.
 This project aims to provide a basic yet scalable template for a food delivery app, showcasing core features such as user authentication,
 restaurant listings, order management, and payment integration.
 
