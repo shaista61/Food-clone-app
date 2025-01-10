@@ -1,14 +1,13 @@
-**The Food Clone App** is a web application designed to replicate the functionality of popular food delivery platforms.
-This project aims to provide a basic yet scalable template for a food delivery app, showcasing core features such as user authentication,
-restaurant listings, order management, and payment integration.
+**Food Clone App** is a web-based application that replicates the functionality of popular food delivery platforms. This project allows users to browse food items, add them to their cart, and place orders. The application is built using modern web development technologies with a focus on user-friendly design and robust backend architecture.
 
+**Key Features**
+**User Management**: Users can sign up, log in, and manage their accounts.
+**Browse Menu**: View a list of food items categorized for easy navigation.
+**Add to Cart**: Users can add their favorite dishes to the cart before placing an order.
+**Order Placement**: A seamless order placement process with order history tracking.
+**Data Storage**: MySQL database is used to store user details, order data, and menu information.
 
-Features:
-
-**User Authentication**: Secure sign-up, login, and profile management using email or social media logins.
-
-**Restaurant Listings**: View a list of nearby restaurants, with the ability to filter by cuisine type, ratings, and location.
-
-**Menu Viewing**: Browse restaurant menus with detailed descriptions, images, and prices.
-
-**Order Placement**: Add items to a cart, customize orders, and checkout with payment options.
+**Tech Stack**
+**Frontend:** HTML, CSS.
+**Backend:** Core Java & Advanced Java
+**Database:** MySQL for data storage.
